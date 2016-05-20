@@ -1,0 +1,27 @@
+{
+  "name": "08-Memory Game",
+  "main": "index.html",
+  "description": "Memory Game with Angular",
+  "keywords": [
+    "Memory",
+    "Game"
+  ],
+  "authors": [
+    "c-mac"
+  ],
+  "license": "none",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "angular": "^1.5.5"
+  }
+}
